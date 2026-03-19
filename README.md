@@ -4,10 +4,6 @@ Salut !👋Je suis Dylan Lakhdari
 Développeur web
 ---------------
 
-*   🌍  Étudiant basé à Paris.
-*   🖥️  Voir mon portfolio sur [dylan-lakhdari.fr](http://dylan-lakhdari.fr)
-*   ✉️  Contactez-moi par mail [dylan.lakh@gmail.com](mailto:dylan.lakh@gmail.com)
-
 <a href="https://www.github.com/DylanLakhdari" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DylanLakhdari?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
